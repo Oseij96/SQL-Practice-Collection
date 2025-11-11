@@ -49,6 +49,7 @@ Then run queries from any part you wish to practice.
 ## 🗂️ Folder Structure
 bash
 Copy code
+```
 # 📁 SQL Practice Collection/
 │
 ├── create_tables.sql
@@ -90,7 +91,7 @@ Copy code
 └── Advanced SQL - With Recursive CTE/
     ├── advanced-sql-practice.sql
     └── README.md
-
+```
 ## 📚 Practice Sections
 Part 1 (Beginner)
 Run Part 1 queries

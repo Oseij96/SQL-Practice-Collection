@@ -79,4 +79,4 @@ SOURCE ../sample_data/sample_data.sql;
 -- Run beginner queries (Q1–Q18)
 SOURCE beginner-sql-practice-part_1.sql;
 ```
-[⬅️ Back to Main SQL Practice Collection](../README.md)
+[⬅️ Back to Main SQL Practice Collection](https://github.com/Oseij96/SQL-Practice-Collection/blob/main/readme.md)

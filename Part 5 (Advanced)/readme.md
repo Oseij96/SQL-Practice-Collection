@@ -48,4 +48,4 @@ SOURCE ../sample_data/sample_data.sql;
 
 SOURCE advanced-sql-practice-part_5.sql;
 ```
-[⬅️ Back to Main SQL Practice Collection](../README.md)
+[⬅️ Back to Main SQL Practice Collection](https://github.com/Oseij96/SQL-Practice-Collection/blob/main/readme.md)

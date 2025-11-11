@@ -75,4 +75,4 @@ SOURCE ../sample_data/sample_data.sql;
 -- Run advanced queries (Q1–Q15)
 SOURCE advanced-sql-practice-part_8.sql;
 ```
-[⬅️ Back to Main SQL Practice Collection](../README.md)
+[⬅️ Back to Main SQL Practice Collection](https://github.com/Oseij96/SQL-Practice-Collection/blob/main/readme.md)

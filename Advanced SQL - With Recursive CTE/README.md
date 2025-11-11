@@ -92,4 +92,4 @@ Data analysis challenges
 
 SQL mastery for backend or analytics roles
 
-[⬅️ Back to Main SQL Practice Collection](../README.md)
+[⬅️ Back to Main SQL Practice Collection](https://github.com/Oseij96/SQL-Practice-Collection/blob/main/readme.md)

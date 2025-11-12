@@ -13,6 +13,20 @@ Each part focuses on a specific set of concepts, progressing in difficulty and c
 The exercises use the same consistent schema (`employees` and `departments` tables) and are designed for hands-on practice with **MySQL 8.0+**.
 
 ---
+
+## 🧩 Topics Covered
+
+- SELECT, WHERE, ORDER BY, and filtering
+- Joins and Subqueries
+- Aggregations and GROUP BY
+- Window functions (RANK, LAG, NTILE)
+- Common Table Expressions (CTEs)
+- Recursive CTEs for hierarchy exploration
+- Analytical queries and reporting
+- Query optimization with EXPLAIN
+
+---
+
 ```
 ## 🧩 Database Schema
 
@@ -119,6 +133,14 @@ Run Part 8 queries
 
 Advanced SQL – With Recursive CTE
 Run Recursive CTE queries
+
+## 📊 Example Query Output
+
+Here’s an example of a recursive CTE query visualized in MySQL Workbench:
+
+### Example Query Result
+![Recursive CTE Output](images/recursive_cte_example.png)
+
 
 ## 💬 Feedback & Contributions
 If you find this project helpful, feel free to star ⭐ the repo or open an issue with suggestions.

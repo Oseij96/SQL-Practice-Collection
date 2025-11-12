@@ -134,6 +134,8 @@ Run Part 8 queries
 Advanced SQL – With Recursive CTE
 Run Recursive CTE queries
 
+---
+
 ## 📊 Example Query Output
 
 Here’s an example of a recursive CTE query visualized in MySQL Workbench:
@@ -141,6 +143,7 @@ Here’s an example of a recursive CTE query visualized in MySQL Workbench:
 ### Example Query Result
 ![Recursive CTE Output](images/recursive_cte_example.png)
 
+---
 
 ## 💬 Feedback & Contributions
 If you find this project helpful, feel free to star ⭐ the repo or open an issue with suggestions.
